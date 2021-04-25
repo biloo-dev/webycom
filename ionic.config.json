@@ -1,0 +1,8 @@
+{
+  "name": "webycom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e99e2d05"
+}
